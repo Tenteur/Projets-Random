@@ -1,0 +1,2 @@
+PreferencesNotFound: 'We are sorry but the Preferences file wasn't found so we've created new one, please restart the program'
+ErrorSearchingForPreferences: 'We are sorry but we are unable to find the correct settings in the preferences file, please delete it and restart the program'
