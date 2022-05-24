@@ -1,0 +1,13 @@
+PreferencesNotFound;Nous sommes desole mais le fichier de Preferences n'a pas ete trouve, nous l'avons recree, veuillez relancer le programme.
+ErrorForPreferences;Nous somme desole mais il y a eu une erreur lors de la lecture du fichier de Preferences, veuillez le supprimer puis relancer le programme.
+PrintHelp;Aide: Ecrit ce menu d'aide.
+PrintOptions;Options: Ecrit le menu des options ou permet de modifier les options du fichier de Preferences.
+PrintExit;Quitter: Ferme le programme.
+OptionsHelp;Vous pouvez modifier les options en ajoutant 'lang:[fr|en]', 'browser:[firefox|chrome|opera]' ou 'icon:[nombre d'icone dans la barre des taches avant le naviguateur]'.
+ExitProg;Le programme va se fermer.
+OptionsLangChanged;La langue a ete changee en: 
+OptionsBrowserChanged;Le navigateur a ete change en: 
+OptionsIconChanged;La colonne d'icones dans la barre des taches a ete change en: 
+UnknownCommand;Votre commande n'a pas ete reconnue, reesseyez ou entrez 'help'.
+Input;Commande: 
+IsNew;Vous etes nouveau ? entrez 'help' pour des Aides.

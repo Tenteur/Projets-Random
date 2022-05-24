@@ -1,0 +1,13 @@
+PreferencesNotFound;We are sorry but the Preferences file wasnt found so weve created new one, please restart the program.
+ErrorForPreferences;We are sorry but we are unable to find the correct settings in the preferences file, please delete it and restart the program.
+PrintHelp;Help: Print this help menu.
+PrintOptions;Options: Print the options menu or modify the options in Preferences file.
+PrintExit;Exit: Close the program.
+OptionsHelp;You can modify options by adding 'lang:[fr|en]', 'browser:[firefox|chrome|opera]', 'icon:[number of icon in your taskbar before your browser]' with 'options'.
+ExitProg;The program will close.
+OptionsLangChanged;The language has been changed to: 
+OptionsBrowserChanged;The browser has been changed to: 
+OptionsWebBrowserIconColumnChanged;The web browser icon column has been changed to: 
+UnknownCommand;Your input wasn't recognized, please try again. or enter 'help'
+Input;Your Input: 
+IsNew;Your new ? Enter 'help' to print the help menu. 

@@ -1,0 +1,4 @@
+FirefoxBingIcon: 20, 20
+GoogleBingIcon: 30, 15
+EdgeBingIcon: 68, 15
+OperaBingIcon: ??, ??
