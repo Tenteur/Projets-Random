@@ -1,3 +1,4 @@
+e05b1c1368bb5a6287d026994b88d9992f9dfc4868052f4708119cbd2f218796
 FirefoxBingIcon: 20, 20
 GoogleBingIcon: 30, 15
 EdgeBingIcon: 68, 15
